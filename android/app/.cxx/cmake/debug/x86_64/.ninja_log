@@ -1,0 +1,15 @@
+# ninja log v5
+1	4138	673468709	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4f5e8772e293f919
+316	4622	673468710	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/libmbCHIP8/src/core/libmbchip8.cpp.o	80d6083f8693e265
+4622	6777	673468713	../../../../build/intermediates/cmake/debug/obj/x86_64/libmbCHIP8-jni.so	5874913f8bd62e68
+3	4195	673468816	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	8fd3428962766b03
+251	4777	673468816	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/libmbCHIP8/src/core/libmbchip8.cpp.o	a5b58195c5d15189
+4777	6252	673468819	../../../../build/intermediates/cmake/debug/obj/x86_64/libmbCHIP8-jni.so	5874913f8bd62e68
+2	3966	673469725	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	8fd3428962766b03
+3966	5373	673469728	../../../../build/intermediates/cmake/debug/obj/x86_64/libmbCHIP8-jni.so	5874913f8bd62e68
+2	3528	673470614	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	8fd3428962766b03
+3528	4759	673470616	../../../../build/intermediates/cmake/debug/obj/x86_64/libmbCHIP8-jni.so	5874913f8bd62e68
+2	3711	673471644	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	8fd3428962766b03
+3712	5264	673471647	../../../../build/intermediates/cmake/debug/obj/x86_64/libmbCHIP8-jni.so	5874913f8bd62e68
+3	3266	673472035	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/libmbCHIP8/src/core/libmbchip8.cpp.o	a5b58195c5d15189
+3266	4563	673472037	../../../../build/intermediates/cmake/debug/obj/x86_64/libmbCHIP8-jni.so	5874913f8bd62e68

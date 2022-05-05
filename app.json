@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "mbCHIP8-react",
+    "slug": "mbCHIP8-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "io.github.mbchip8"
+    }
+  },
+  "name": "mbCHIP8-react"
+}

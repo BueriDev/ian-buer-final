@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\CMakeLists.txt",
+    "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe  -C \"C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mbCHIP8-jni-Debug-arm64-v8a": {
+      "artifactName": "mbCHIP8-jni",
+      "buildCommand": "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a\" mbCHIP8-jni",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libmbCHIP8-jni.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "stringTable": {
+    "0": "C:/Users/bueri/Desktop/ITDEV-182/mbCHIP8-react/android/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=C:/Users/bueri/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/bueri/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DmbCHIP8_jni_EXPORTS -I../../../../src/main/cpp/libmbCHIP8/include -I../../../../src/main/cpp/libmbCHIP8/include/libmbCHIP8 -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\CMakeLists.txt",
+    "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe  -C \"C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mbCHIP8-jni-Debug-x86": {
+      "buildCommand": "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe -C \"C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\.cxx\\cmake\\debug\\x86\" mbCHIP8-jni",
+      "buildType": "debug",
+      "toolchain": "2477874937",
+      "abi": "x86",
+      "artifactName": "mbCHIP8-jni",
+      "files": [
+        {
+          "src": "C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\src\\main\\cpp\\mbCHIP8-jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\src\\main\\cpp\\libmbCHIP8\\src\\core\\libmbchip8.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\bueri\\Desktop\\ITDEV-182\\mbCHIP8-react\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libmbCHIP8-jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2477874937": {
+      "cppCompilerExecutable": "C:\\Users\\bueri\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

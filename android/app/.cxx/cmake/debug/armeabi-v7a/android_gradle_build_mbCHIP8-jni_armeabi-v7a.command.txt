@@ -1,0 +1,7 @@
+Executable : C:\Users\bueri\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\bueri\Desktop\ITDEV-182\mbCHIP8-react\android\app\.cxx\cmake\debug\armeabi-v7a
+mbCHIP8-jni
+jvmArgs : 
+

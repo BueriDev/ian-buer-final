@@ -1,0 +1,3 @@
+C:/Users/bueri/Desktop/ITDEV-182/mbCHIP8-react/android/app/.cxx/cmake/debug/x86/CMakeFiles/mbCHIP8-jni.dir
+C:/Users/bueri/Desktop/ITDEV-182/mbCHIP8-react/android/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/bueri/Desktop/ITDEV-182/mbCHIP8-react/android/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+# ninja log v5
+1	3830	673468696	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	a9aebfdc6f3242f8
+251	4479	673468697	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/libmbCHIP8/src/core/libmbchip8.cpp.o	6abf23285f730672
+4479	6305	673468699	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+3	3811	673468803	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4a6deceffcab48aa
+288	4446	673468804	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/libmbCHIP8/src/core/libmbchip8.cpp.o	67edc22546df5ed4
+4446	6089	673468806	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+3	3410	673469715	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4a6deceffcab48aa
+3410	4928	673469717	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+3	4746	673470573	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4a6deceffcab48aa
+4747	6047	673470575	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+3	4076	673471587	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4a6deceffcab48aa
+4076	6156	673471590	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+2	3860	673471633	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4a6deceffcab48aa
+3861	5772	673471636	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+2	3666	673472025	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/libmbCHIP8/src/core/libmbchip8.cpp.o	67edc22546df5ed4
+3666	5045	673472027	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+2	4116	673474328	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4a6deceffcab48aa
+4116	6364	673474332	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+3	3935	673474986	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4a6deceffcab48aa
+3935	5558	673474989	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
+4	4033	673476095	CMakeFiles/mbCHIP8-jni.dir/src/main/cpp/mbCHIP8-jni.cpp.o	4a6deceffcab48aa
+4033	5562	673476098	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libmbCHIP8-jni.so	63ab453247a644e6
